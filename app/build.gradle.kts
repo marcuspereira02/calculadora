@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.marcuspereira.calculadora"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.marcuspereira.calculadora"
